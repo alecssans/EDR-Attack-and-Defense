@@ -27,4 +27,15 @@ With a live C2 session established, the attacker can now explore the target mach
 
 ![image](https://github.com/user-attachments/assets/60ba5db6-adac-4749-9446-e72594ab2869)
 ![image](https://github.com/user-attachments/assets/9f7a9db3-4410-4bc4-9f8c-61fc9b9ee265)
+![image](https://github.com/user-attachments/assets/d548259d-d9e0-48f2-849f-bb064e53f499)
+
+#
+On the attack machine, we can simulate credential theft by dumping LSASS memory. Meanwhile, in LimaCharlie, we can monitor the sensors, analyze telemetry, and create detection rules to identify this sensitive process.
+
+![image](https://github.com/user-attachments/assets/2a3def04-0ae5-4a89-b786-d4737e39286f)
+
+
+
+
+
 
