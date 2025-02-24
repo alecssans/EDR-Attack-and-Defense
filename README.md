@@ -1,5 +1,3 @@
-# EDR-Attack-and-Defense
-Home lab for cyber attack/defense practice using Sliver (C2), LimaCharlie (SIEM), and VMs to simulate threats, detection, and response.
 # Project
 This lab simulates real-world cyber attacks and endpoint detection/response. Following Eric Capuano's guide, I’ll use VMs to replicate threat and victim machines. The attacker machine will run Sliver (C2 framework) to target a Windows endpoint protected by LimaCharlie (EDR).
 
