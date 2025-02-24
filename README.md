@@ -31,7 +31,7 @@ With a live C2 session established, the attacker can now explore the target mach
 
 #
 On the attack machine, we can simulate credential theft by dumping LSASS memory. Meanwhile, in LimaCharlie, we can monitor the sensors, analyze telemetry, and create detection rules to identify this sensitive process.
-
+#
 ![image](https://github.com/user-attachments/assets/2a3def04-0ae5-4a89-b786-d4737e39286f)
 ![image](https://github.com/user-attachments/assets/ccab791e-1a62-45c8-b310-3d2cb3205b3e)
 ![image](https://github.com/user-attachments/assets/ee074a10-368f-4fb3-a064-7d066f1d362d)
@@ -39,7 +39,7 @@ On the attack machine, we can simulate credential theft by dumping LSASS memory.
 
 #
 To take it further, I’ll simulate a ransomware attack by attempting to delete volume shadow copies from the Ubuntu machine. Using LimaCharlie, I’ll observe the telemetry, write rules to detect and block the attack, and ensure the same attack fails if attempted again.
-
+#
 ![image](https://github.com/user-attachments/assets/1e3fa0f7-456a-4b4e-8693-66c4710d09ce)
 ![image](https://github.com/user-attachments/assets/8431b07f-cc4e-4c19-944b-79c4456f36fc)
 ![image](https://github.com/user-attachments/assets/cd81e4a7-e4fa-40fa-a508-ccdd8684f79b)
