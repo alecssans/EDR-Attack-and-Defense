@@ -18,3 +18,6 @@ Sliver: Primary attack tool on the Ubuntu machine.
 LimaCharlie: EDR solution on the Windows machine, with a sensor linked to the endpoint and Sysmon logs imported for monitoring.
 
 ![image](https://github.com/user-attachments/assets/7bf99267-b1b1-40ec-b023-6e0b61f008df)
+# Attack
+I generate a payload using Sliver and implant it onto the Windows host. Once the malware is executed on the endpoint, a command-and-control (C2) session can be established.
+![image](https://github.com/user-attachments/assets/60ba5db6-adac-4749-9446-e72594ab2869)
