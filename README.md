@@ -21,7 +21,10 @@ LimaCharlie: EDR solution on the Windows machine, with a sensor linked to the en
 ![image](https://github.com/user-attachments/assets/7bf99267-b1b1-40ec-b023-6e0b61f008df)
 # Attack
 I generate a payload using Sliver and implant it onto the Windows host. Once the malware is executed on the endpoint, a command-and-control (C2) session can be established.
+With a live C2 session established, the attacker can now explore the target machine, check privileges, gather host information, and assess the security measures in place.
+
 
 ![image](https://github.com/user-attachments/assets/60ba5db6-adac-4749-9446-e72594ab2869)
 ![image](https://github.com/user-attachments/assets/9f7a9db3-4410-4bc4-9f8c-61fc9b9ee265)
 
+With a live C2 session established, the attacker can now explore the target machine, check privileges, gather host information, and assess the security measures in place.
